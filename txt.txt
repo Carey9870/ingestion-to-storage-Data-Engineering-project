@@ -1,0 +1,5 @@
+API -> Airflow (PostgreSQL) -> Kafka (ZooKeeper) -> Spark -> Cassandra
+
+An end-to-end data engineering pipeline, from ingestion, to processing, to storage all containerized in docker
+
+
